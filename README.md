@@ -7,4 +7,4 @@ All scripts written personally to learn the *why* behind every line of code.
 ---
 
 ## Projects So Far
-### 01_cipher_project  
+### - 01_cipher_project  
