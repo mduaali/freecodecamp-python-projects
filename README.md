@@ -1,8 +1,8 @@
 # My FreeCodeCamp Python Journey
 
-This repository documents my learning progress through the FreeCodeCamp Python curriculum — each folder contains a hands-on project I built to understand core programming concepts.  
+This repository documents my learning progress through the FreeCodeCamp Scientific Computing with Python curriculum, each folder contains a hands-on project I built to understand core programming concepts.  
 
-All scripts written personally to learn the *why* behind every line of code.  
+All scripts written personally and include a README.md to learn the *why* behind every line of code.  
 
 ---
 
