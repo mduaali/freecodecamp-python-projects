@@ -9,3 +9,4 @@ All scripts written personally to learn the *why* behind every line of code.
 ## Projects So Far
 ### - 01_cipher_project  
 ### - 02_luhn_algorithm
+### - 03_lambda_expense_tracker
