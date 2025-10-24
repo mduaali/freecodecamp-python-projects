@@ -12,4 +12,4 @@ All scripts written personally and include a README.md to learn the *why* behind
 ### - 03_lambda_expense_tracker
 ### - 04_case_converter_project  
 ### - 05_bisection_square_root
-### - 06_arithmetic_arranger_project **CERTIFICATION PROJECT**
+### - 06_arithmetic_arranger_project **(certification project)**
